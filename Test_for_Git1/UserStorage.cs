@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test_for_Git1
 {
-    internal class BooksStorage
+    internal class UserStorage
     {
     }
 }
