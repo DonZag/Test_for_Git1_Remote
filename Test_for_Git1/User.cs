@@ -9,6 +9,5 @@ namespace Test_for_Git1
     internal class User
     {
         //изменение для подзадачи 4
-        //изменение для подзадачи 5
     }
 }
