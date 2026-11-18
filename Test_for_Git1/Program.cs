@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             //новая задача
+            //сделал подзадачу 6
         }
     }
 }
